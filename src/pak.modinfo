@@ -1,0 +1,11 @@
+{
+  "name" : "Lettered Ores",
+  "version" : "Beta v. Upbeat Giraffe",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata": {
+    "author" : "Amadox",
+    "description" : "Better recognizable ores with colored letters",
+    "version" : "1.1"
+  }
+}
