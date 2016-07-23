@@ -1,11 +1,11 @@
 {
   "name" : "Lettered Ores",
-  "version" : "Beta v. Upbeat Giraffe",
   "path" : ".",
   "dependencies" : [],
+  version: "",
   "metadata": {
     "author" : "Amadox",
-    "description" : "Better recognizable ores with colored letters",
-    "version" : "1.1"
+    "description" : "Better recognizable ores with colored letters - now with support for Frackin Universe",
+    "version" : "1.3"
   }
 }
