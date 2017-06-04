@@ -5,5 +5,7 @@
   "link" : "steam://url/CommunityFilePage/729846503",
   "name" : "Lettered Ores",
   "steamContentId" : "729846503",
-  "version" : "1.6.1a"
+  "version" : "1.6.1b",
+  "includes": ["FrackinUniverse"],
+  "priority" : 99 
 }
