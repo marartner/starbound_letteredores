@@ -4,4 +4,4 @@ I found it difficult to recognize the differences between various ores. Worst of
 
 So I added a small letter colored like the ore itself above each ore type, to make them better recognizable.
 
-The Mod has been updated for 1.0.
+The Mod has been updated for 1.3.x
